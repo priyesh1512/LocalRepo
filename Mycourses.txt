@@ -1,0 +1,7 @@
+My Courses - 
+- Object Oriented Programming 
+- Business Communication 
+- Front End Developement 
+- English Comp 2
+- HCI 
+- Management Information System
